@@ -10,7 +10,7 @@ public class App {
 		// int [] intArr = new int [4];
 		// output("Länge Array: " + intArr.length);	
 		
-		// // Index
+		// // // Index
 		// output("3. Element " + intArr[2]);
 		
 		// intArr[0] = 10;
@@ -23,9 +23,9 @@ public class App {
 		// 	output("Element: " + i + " : "+ intArr[i]);
 		// }
 			
-		// Deklaration: String
+		// // Deklaration: String
 		// String [] strArr = new String [2];
-		// String [] strArr = {"Hallo","Nikola"};
+		// // String [] strArr = {"Hallo","Ahmadzai"};
 		
 		// for (int i = 0; i < strArr.length; i++) {
 		// 	output("Element: " + strArr[i]);
@@ -82,7 +82,7 @@ public class App {
 		// 	// .... isInArray()
 			
 		// 	output("---- fill() ----");
-		// 	//.. Array füllen
+		// // 	//.. Array füllen
 		// 	Arrays.fill(letters, '0');
 		// 	for (int i = 0; i < letters.length; i++) {
 		// 		output((letters[i]));
